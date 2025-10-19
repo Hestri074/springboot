@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SocialApplication<social>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "id.go.bpddiy.social.SocialApplication",
+            "projectName": "social",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
